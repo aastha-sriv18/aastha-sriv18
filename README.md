@@ -37,9 +37,6 @@ I work with Java, C++, React, Node.js, SQL, and modern AI tools to build applica
 
 Currently focused on Data Structures & Algorithms, Backend Development, System Design, and Generative AI.
 
-- 🤖 AI Intern @ Infosys Springboard — developed an EfficientNetB2 model and integrated it into a web application, added Gemini API-based analysis, and implemented user authentication
-- 💻 LeetCode Problem Solver — solved 150+ algorithmic problems across arrays, strings, trees, graphs, and dynamic programming
-- 🚀 AI & Full-Stack Developer — built projects including ColorSense, Store Intelligence System, and AI-powered Student Feedback System
 ---
 
 ## 🛠 Tech Stack
